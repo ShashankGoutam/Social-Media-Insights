@@ -37,12 +37,9 @@ This project focuses on analyzing Twitter data to uncover engagement trends acro
    ```bash
    gh repo clone ShashankGoutam/Social-Media-Insights
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd <repository_name>
-   ```
-3. Open the Jupyter Notebook or Python script.
-4. Run the code cells in sequence to:
+
+2. Open the Jupyter Notebook or Python script.
+3. Run the code cells in sequence to:
    - Load and clean the dataset.
    - Categorize tweets.
    - Analyze and visualize data.
