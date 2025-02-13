@@ -35,7 +35,7 @@ This project focuses on analyzing Twitter data to uncover engagement trends acro
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   gh repo clone ShashankGoutam/Social-Media-Insights
    ```
 2. Navigate to the project directory:
    ```bash
